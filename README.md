@@ -10,4 +10,4 @@ Once the cart is complete, the user is presented with an option to enter a promo
 
 ADDitional features: 
 Notifying the users if they try to enter an invalid food item or promo code, allowing the user to type "done" when they are finished with their selections, printing accurate dates for order scheduling.
-Also allowing the user to see changes made to their cart including quanity of items and prices.
+Also allowing the user to see changes made to their cart including items quantity and prices.
